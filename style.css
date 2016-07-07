@@ -1,0 +1,17 @@
+﻿.jumbotron{
+    background-image: url("lobster3_muted.jpg");
+    background-size:cover;
+    background-position:center;  
+}
+.feature{
+    text-align:center;
+}
+.feature .glyphicon{   
+    font-size:400%;
+}
+.feature .glyphicon-globe{
+    color:blue;
+}
+.feature .glyphicon-exclamation-sign{
+    color:green;
+}
