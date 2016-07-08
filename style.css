@@ -1,8 +1,14 @@
 ﻿.jumbotron{
-    background-image: url("lobster3_muted.jpg");
+    background-image: url(lobster5_muted.jpg);
     background-size:cover;
     background-position:center;  
+    color:black; 
+    text-align:center;  
 }
+h1{
+   text-shadow: 2px 2px black;
+}
+
 .feature{
     text-align:center;
 }
@@ -10,8 +16,11 @@
     font-size:400%;
 }
 .feature .glyphicon-globe{
-    color:blue;
+    color:#e50707;
 }
 .feature .glyphicon-exclamation-sign{
-    color:green;
+    color:#e50707;
+}
+.feature .glyphicon-fast-forward{
+    color:#e50707;
 }
